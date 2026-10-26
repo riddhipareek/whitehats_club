@@ -12,4 +12,4 @@ I want a structured environment with people ahead of me who can guide that learn
 
 To be honest, I hadn't really read about any incident before but I looked one up for this very task.
 I read about the MOVEit transfeer breach, it had an incident involving a similar attack like the one mentioned in one of the previous questions I was asked.
-MOVEit Transfer is a widely used file transfer software. In 2023, i was exploited by the Cl0p ransomware group. The attackers used a SQL injection flaw to access databases of hundreds of organizations worldwide, including government agencies, banks, and universities. Sensitive data of millions of people was exposed because of it.
+MOVEit Transfer is a widely used file transfer software. In 2023, it was exploited by the Cl0p ransomware group. The attackers used a SQL injection flaw to access databases of hundreds of organizations worldwide, including government agencies, banks, and universities. Sensitive data of millions of people was exposed because of it.
